@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="D:\Particular\WCF\">
+    <file relUrl="bin/BaseConhecimentoWCF.dll" publishTime="04/07/2014 13:37:33" />
+    <file relUrl="Web.config" publishTime="04/01/2014 08:29:36" />
+    <file relUrl="bin/BaseConhecimentoWCF.pdb" publishTime="04/07/2014 13:37:33" />
+    <file relUrl="bin/BaseConhecimentoWCF.dll.config" publishTime="04/01/2014 08:29:36" />
+    <file relUrl="BaseConhecimentoWCF.CalcService.svc" publishTime="04/07/2014 13:37:33" />
+  </publishTarget>
+  <publishTarget publishUrl="d:\">
+    <file relUrl="bin/BaseConhecimentoWCF.dll.config" publishTime="04/01/2014 08:29:36" />
+    <file relUrl="bin/BaseConhecimentoWCF.dll" publishTime="04/07/2014 13:24:42" />
+    <file relUrl="BaseConhecimentoWCF.CalcService.svc" publishTime="04/07/2014 13:25:16" />
+    <file relUrl="Web.config" publishTime="04/01/2014 08:29:36" />
+    <file relUrl="bin/BaseConhecimentoWCF.pdb" publishTime="04/07/2014 13:24:42" />
+  </publishTarget>
+</publishData>

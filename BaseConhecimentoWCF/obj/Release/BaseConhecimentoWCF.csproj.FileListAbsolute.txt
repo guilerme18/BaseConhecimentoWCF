@@ -1,0 +1,5 @@
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Release\BaseConhecimentoWCF.dll.config
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Release\BaseConhecimentoWCF.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Release\BaseConhecimentoWCF.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\obj\Release\BaseConhecimentoWCF.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\obj\Release\BaseConhecimentoWCF.pdb

@@ -1,0 +1,8 @@
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\bin\Release\Client.exe.config
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\bin\Release\Client.exe
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\bin\Release\Client.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\obj\Release\Client.frmClientWCF.resources
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\obj\Release\Client.exe
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\Client\obj\Release\Client.pdb

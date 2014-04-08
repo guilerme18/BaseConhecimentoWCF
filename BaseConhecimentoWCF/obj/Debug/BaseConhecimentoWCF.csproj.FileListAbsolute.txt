@@ -1,0 +1,6 @@
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Debug\BaseConhecimentoWCF.dll.config
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Debug\BaseConhecimentoWCF.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\bin\Debug\BaseConhecimentoWCF.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\obj\Debug\BaseConhecimentoWCF.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\obj\Debug\BaseConhecimentoWCF.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\BaseConhecimentoWCF\obj\Debug\BaseConhecimentoWCF.csprojResolveAssemblyReference.cache

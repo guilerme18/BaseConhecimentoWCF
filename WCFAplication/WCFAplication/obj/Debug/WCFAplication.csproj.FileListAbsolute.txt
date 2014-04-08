@@ -1,0 +1,7 @@
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\bin\WCFAplication.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\bin\WCFAplication.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\bin\BaseConhecimentoWCF.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\bin\BaseConhecimentoWCF.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\obj\Debug\WCFAplication.csprojResolveAssemblyReference.cache
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\obj\Debug\WCFAplication.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWCF\BaseConhecimentoWCF\WCFAplication\WCFAplication\obj\Debug\WCFAplication.pdb
